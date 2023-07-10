@@ -6,11 +6,12 @@ Create business report showcase your knowledge and skillset for Data Analyst Cer
 
 Project Requirements: 
 
-Compile and clean up to 4 monthly Taxi data files
-Create new columns that extract data from columns and turn them into something that helps to analze the data
-      New Flags created: Payment Type Description, Trip_distance_flag, Trip_Distance_Monthly_Sum, Fare_Amount_Flag, Fare_Amount_Sum, Tip_Amount_Sums
-      Reports Created: Q1 NYC Yellow - Clean, Wrangle and Concatenate monthyly reports into a Quarterly Business Report
-                       Q1 NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borourgh being accounted for so each month would have 6 rows per month for each month, one for each Borough. 
+•	Compile and clean up to 4 monthly Taxi data files
+•	Create new columns that extract data from columns and turn them into something that helps to analyze the data
+•	New Flags created: Payment Type Description, Trip_distance_flag, Trip_Distance_Monthly_Sum, Fare_Amount_Flag, Fare_Amount_Sum, Tip_Amount_Sums
+•	Reports Created: Q1 NYC Yellow - Clean, Wrangle and Concatenate monthly reports into a Quarterly Business Report
+•	Q1 NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borough being accounted for so each month would have 6 rows per month for each month, one for each Borough.
+ 
 
 Course of Action:
 1) Pull raw data from https://www.nyc.gov/site/tlc/businesses/yellow-cab.page
@@ -20,3 +21,16 @@ Course of Action:
 5) Link to tableau dashboard: https://public.tableau.com/app/profile/mark.reece/viz/NYCYellowBusinessReport/Final?publish=yes
 6) Update PowerPoint: Project Overivew to include the business Report for NYC Yellow Taxi
 
+Questions Answered:
+
+1) Is there a correlation between trip disance(miles) and the fare amount?
+2) Which Boroughs are the busiest?
+3) Which zones are the busiest?
+4) What times are the busiest?
+5) Can we capture higher fare amounts?
+6) Is there a way to incentvize are more preferred taxi cab drivers?
+7) Should we focus on Aiports more or less?
+   
+
+Tools:
+Python, Juypter Notebook, PowerPoint, Excel, and Tableau
