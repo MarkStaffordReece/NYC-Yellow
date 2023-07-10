@@ -1,7 +1,9 @@
 # NYC-Yellow
 
-#Create business report showcasign your knowledge and skillset for Data Analyst Certiifcate from Career Foundry. 
+Create business report showcase your knowledge and skillset for Data Analyst Certiifcate from Career Foundry. 
+
 Compile and clean up to 4 monthly Taxi data files
+
 Create new columns that extract data from columns and turn them into something that helps to analze the data
       New Flags created: Payment Type Description, Trip_distance_flag, Trip_Distance_Monthly_Sum, Fare_Amount_Flag, Fare_Amount_Sum, Tip_Amount_Sums
       Reports Created: Q1 NYC Yellow - Clean, Wrangle and Concatenate monthyly reports into a Quarterly Business Report
