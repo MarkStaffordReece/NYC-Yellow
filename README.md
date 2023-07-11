@@ -14,11 +14,12 @@ Project Requirements:
  
 
 Course of Action:
-1) Pull raw data from https://www.nyc.gov/site/tlc/businesses/yellow-cab.page
-2) Concatenate 4 monthly raw data files
-3) Compile all days for a month for each Borough so we can learn what the daily value of trip distance, fare amount and tip amount for each day within each Borough of New York City 
-4) Import data into Tableau to build out visuals that will help to build the story for the stakeholders
-5) Update PowerPoint: Project Overivew to include the business Report for NYC Yellow Taxi
+1) Pull raw data
+2) Clean and wrangle data
+3) Concatenate 4 monthly raw data files
+4) Compile all days for a month for each Borough so we can learn what the daily value of trip distance, fare amount and tip amount for each day within each Borough of New York City 
+5) Import data into Tableau to build out visuals that will help to build the story for the stakeholders
+6) Update PowerPoint: Project Overivew to include the business Report for NYC Yellow Taxi
 
 Questions Answered:
 
