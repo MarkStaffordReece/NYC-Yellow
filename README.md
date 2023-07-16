@@ -9,8 +9,8 @@ Project Requirements:
 1) Compile and clean up to 4 monthly Taxi data files
 2)	Create new columns that extract data from columns and turn them into something that helps to analyze the data
 3)	New Flags created: Payment Type Description, Trip_distance_flag, Trip_Distance_Monthly_Sum, Fare_Amount_Flag, Fare_Amount_Sum, Tip_Amount_Sums
-4)	Reports Created: Q1 NYC Yellow - Clean, Wrangle and Concatenate monthly reports into a Quarterly Business Report
-5)	Q1 NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borough being accounted for so each month would have 6 rows per month for each month, one for each Borough.
+4)	Reports Created: NYC Yellow - Clean, Wrangle and Concatenate monthly reports into Business Report
+5)	NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borough being accounted for so each month would have 6 rows per month for each month, one for each Borough.
 
  
 
