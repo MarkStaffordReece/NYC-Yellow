@@ -37,5 +37,15 @@ Links:
 2) Link to tableau dashboard: https://public.tableau.com/app/profile/mark.reece/viz/NYCYellowBusinessReport/Final?publish=yes
 3) Link to Project Overview which is a PowerPoint compiling all my Data Analyst Projects from Career Foundry and beyond: https://1drv.ms/p/s!AuF0fsLP4ZFwgh3WyhvcZICzkjS_?e=78WOMh
 
+Project Limitations:
+
+1. Data Availability: The project relies on NYC Yellow Taxi Cab data, which may have limitations or inconsistencies affecting the analysis.
+
+2. Data Quality: The accuracy of the analysis depends on the quality of the data, which should be carefully cleaned and validated.
+
+3. Scope of Analysis: The analysis focuses on NYC Yellow Taxi Cab business and may not consider all factors influencing the industry.
+
+6. Assumptions: The analysis involves certain assumptions, which introduce uncertainty and should be considered when interpreting the findings.
+
 Tools:
 Python, Juypter Notebook, PowerPoint, Excel, and Tableau
