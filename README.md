@@ -10,7 +10,8 @@ Project Requirements:
 2)	Create new columns that extract data from columns and turn them into something that helps to analyze the data
 3)	New Flags created: Payment Type Description, Trip_distance_flag, Trip_Distance_Monthly_Sum, Fare_Amount_Flag, Fare_Amount_Sum, Tip_Amount_Sums
 4)	Reports Created: Q1 NYC Yellow - Clean, Wrangle and Concatenate monthly reports into a Quarterly Business Report
-5)Q1 NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borough being accounted for so each month would have 6 rows per month for each month, one for each Borough.
+5)	Q1 NYC Yellow Totals- Compile all the daily data into a single day for each month but each Borough being accounted for so each month would have 6 rows per month for each month, one for each Borough.
+
  
 
 Course of Action:
